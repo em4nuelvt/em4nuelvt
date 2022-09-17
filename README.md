@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
  
-#I'm Emanuel Vieira Tavares, I'm studying computer engineering at CEFET-MG 📚 and my nickname is em4nuelvt ⚡!
+# I'm Emanuel Vieira Tavares, I'm studying computer engineering at CEFET-MG 📚 and my nickname is em4nuelvt ⚡!
 
 
 
