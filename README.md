@@ -33,6 +33,6 @@
 <a href = "mailto:contato@emanuelvtcefet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
-
+![](https://media.giphy.com/media/yhXPFygSaOuzmnq8tF/giphy.gif)
 
 
