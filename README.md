@@ -1,6 +1,6 @@
-# 👋 Hello, Emanuel here! Welcome to my Github profile.
+##👋 Hello, Emanuel here! Welcome to my Github profile.
  
-#  I'm graduated in IT and now I'm graduating Computer Engineering, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
+## I'm graduated in IT and now I'm graduating Computer Engineering, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
 
 
 
