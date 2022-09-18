@@ -26,7 +26,7 @@
 </div>
 
 
-![Snake animation](https://github.com/em4nuelvt/em4nuelvt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kripken/kripken/blob/output/github-contribution-grid-snake.svg)
 
 ## Conect with me:
 
