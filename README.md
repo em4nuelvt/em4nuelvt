@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=em4nuelvt&label=Profile%20views&color=0e75b6&style=onestar" alt="tiagofga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=em4nuelvt&label=Profile%20views&color=0e75b6&style=onestar" alt="em4nuelvt" /> </p>
 
 # 👋 Hello, Emanuel here! Welcome to my Github profile.
 ## I'm IT graduated and now graduating Computer Engineering, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
