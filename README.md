@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently exploring  C, C++ and Python
+- 🌱 I’m currently exploring   C++, PHP + Laravel and Python
 
 
 
