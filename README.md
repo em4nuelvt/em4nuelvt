@@ -5,7 +5,6 @@
 ## I'm IT graduated and now graduating Computer Engineering, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
 
 
-
 - 🌱 I’m currently exploring   C++, PHP + Laravel and Python
 
 
