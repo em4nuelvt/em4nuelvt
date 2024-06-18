@@ -2,18 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=em4nuelvt&label=Profile%20views&color=0e75b6&style=onestar" alt="em4nuelvt" /> </p>
 
 # 👋 Hello, Emanuel here! Welcome to my Github profile.
-## I'm IT graduated and now graduating Computer Engineering, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
+## I'm IT graduated and now Computer Engineering undergrad, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
 
 
 - 🌱 I’m currently exploring   C++, PHP + Laravel and Python
 
 
-
-
 ## Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=mint,c,cpp,py,dart,flutter,html,css,bootstrap,js,jquery,php,mysql,vscode,phpstorm,)](https://skillicons.dev)
-
-
 
 
 ## Stats:
@@ -22,7 +18,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=em4nuelvt&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=em4nuelvt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 ## Conect with me:
 <br>
