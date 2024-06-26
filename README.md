@@ -4,9 +4,7 @@
 # 👋 Hello, Emanuel here! Welcome to my Github profile.
 ## I'm IT graduated and now Computer Engineering undergrad, both at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
 
-
 - 🌱 I’m currently exploring   C++, PHP + Laravel and Python
-
 
 ## Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=mint,c,cpp,py,dart,flutter,html,css,bootstrap,js,jquery,php,mysql,vscode,phpstorm,)](https://skillicons.dev)
