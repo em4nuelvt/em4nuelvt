@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=em4nuelvt&label=Profile%20views&color=0e75b6&style=onestar" alt="em4nuelvt" /> </p>
 
 # 👋 Hello, Emanuel here! Welcome to my Github profile.
-## I'm IT graduated / Computer Engineering undergrad at the Federal Center of Technological Education of Minas Gerais(CEFET-MG)! 📚⚡
+## I'm IT graduated / Computer Engineering undergrad at CEFET-MG 📚⚡
 
 - 🌱 I’m currently exploring   C++, PHP + Laravel and Python
 
