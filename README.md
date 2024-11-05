@@ -3,7 +3,7 @@
 # 👋 Hello, Emanuel here! Welcome to my Github profile.
 ## I'm IT graduated / Computer Engineering undergrad at CEFET-MG 📚⚡
 
-- 🌱 I’m currently exploring   C++, PHP and Python
+- 🌱 I’m currently exploring   C++, PHP and Python.
 
 ## Technologies and Tools:
 [![My Skills](https://skillicons.dev/icons?i=mint,c,cpp,py,dart,flutter,html,css,bootstrap,js,jquery,php,mysql,vscode,phpstorm,)](https://skillicons.dev)
